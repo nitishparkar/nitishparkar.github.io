@@ -6,7 +6,7 @@ category: book_reviews
 goodreads_link: https://www.goodreads.com/book/show/25135194
 goodreads_cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432827094l/25135194.jpg
 language: Marathi
-external_links: []
+external_links: ["https://www.goodreads.com/review/show/3200017627", "https://www.insidemarathibooks.in/index.php/2020/12/26/prisoners-of-geography-book-review-in-marathi/"]
 ---
 जेव्हा बातम्यांमध्ये जागतिक घडामोडी दाखवल्या जातात तेव्हा त्यांचा भर सहसा तेथील लोक, राजकीय नेते आणि चळवळी यांवर असतो. यांव्यतिरिक्तही असा एक महत्वाचा घटक आहे ज्याचा या घडामोडींवर प्रभाव असतो, तो म्हणजे त्या प्रांताची भौगोलिक संरचना. देश कितीही बलाढ्य असला आणि त्याचे नेते कितीही महत्वाकांक्षी असले तरी भौगोलिक परिस्थितीमुळे येणाऱ्या मर्यादांवर मात करणे सहजासहजी शक्य होत नाही - या संकल्पनेवर हे पुस्तक आधारित आहे. 
 
