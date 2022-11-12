@@ -1,0 +1,29 @@
+---
+title: "Sikkim Travelogue - 4"
+---
+ 
+The next day we had an early breakfast of bread jam and left for Zero point. We could see many snow-capped mountains around Lachung and much more military presence along the route. The road to Zero point goes through a small forest before entering Yumthang valley. Up until we reached the forest, I was thinking about the day before and how it would be hard to beat those views. I was about to be proved wrong. Lachung river was flowing in full force through Yumthang valley, with lush green meadows on one side and thick forest on the other. We could see snow-capped mountains all around at a distance. It was gorgeous. We passed Yumthang valley and continued towards Zero point. There were many patches of winding road with beautiful views all around. The air around kept getting colder as we moved up towards Zero Point.
+
+![Near Zero Point](/assets/images/posts/sikkim-travelogue/near-zero-point.jpg)
+
+There was some traffic near Zero point, so our driver parked at a distance. The six of us walked all the way to a snow slope, crossing a stream of water on the way. We decided to climb to the top of the snow patch to avoid the crowd. The climb wasn't too big, but at 15000ft, it was enough to make your lungs burn. On reaching the top of the snow patch, Shekhar started feeling dizzy. He lay down there for a while and then returned to the cab. Anshika, too, left early. The rest of us climbed to a rocky area above the snow patch and rested there. It was surreal to sit up there - amidst snow patches, slightly away from the crowd, soaking in all the views.
+
+Tulip, Sourabh, and I decided to slide down the slope. We started from the top locking arms, screaming joyfully, and shouting at others to get out of our way. Till the halfway point, we had lost control and were freerolling down, each with their face in a different direction. Fortunately, there was a little plateau at the end of the patch to arrest our slide. Snow had gone everywhere inside our clothes and boots. But it was super fun. Even though we were panting, we decided to go back all the way up and do it again. Going back up was daunting, but we were too excited to be deterred. We repeated the slide and thoroughly enjoyed this time as well. It was well past the deadline the driver had given us, so we decided to head back.
+
+We were a little tired and hungry. Before returning to the vehicle, the three of us gobbled up popcorn, boiled chana, eggs, and Maggi. We knew everyone was going to be mad at us for being late. Luckily for us, Tulip was panting so bad that everyone thought she had breathing difficulty and we had to stay with her. We didn't deny it either. :)
+
+![Zero Point](/assets/images/posts/sikkim-travelogue/zero-point.jpg)
+
+<iframe width="100%" height="400" src="//www.youtube.com/embed/MaDXygtbR10" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="100%" height="400" src="//www.youtube.com/embed/6iyZPb1uM7U" frameborder="0" allowfullscreen></iframe>
+
+On our way back, we stopped at Yumthang valley. The crowd was thin there, and it was easy to find a spot for yourself. A few of us went ahead to get close to the Yaks grazing at a distance. We reached Lachung really late. We freshened up there and had lunch. Shekhar, Tulip, and Sourabh had one look at the food and decided to head out and eat somewhere else. They had to go far to find a restaurant. By the time they found one, everyone else from the group had finished eating and was asking us to call them. They had to literally stuff the food in their mouth and rush back. It was an awkward wait for us as the rest of the passengers and the driver were visibly upset. Fortunately, no one said anything when they returned, and we left for Gangtok.
+
+![Yumthang Valley](/assets/images/posts/sikkim-travelogue/yumthang-valley.jpg)
+
+It seemed like of all the cars that had come for the North Sikkim trip, ours was the only one left in Lachung. On the way back, Anshika assumed the role of in-car DJ but her choice of songs compelled the driver, who was till then did not seem to care about what we played, to turn down the volume and ask us to play something suitable for everyone. Sourabh was back in his Mike character and was trying to talk to other drivers in a traffic jam. He gave Tulip a task to high-five a stranger. Luckily the first one she tried obliged. Sourabh also got a task to shout 'bharat mata ki jay' or something at strangers, and he even got a response from one stranger. It was good fun. It even made our otherwise serious driver smile. At one point in the evening, I ran out of my social battery. So I gladly switched seats with Shekhar, put on earphones, and drifted into naps while listening to an audiobook. We reached Gangtok's Vajra stand by 8.30 PM, ending our epic trip.
+
+![Our taxi at the end of North Sikkim trip](/assets/images/posts/sikkim-travelogue/end-of-north-sikkim-trip.jpg)
+
+The six of us had so much fun on this trip. Sure, if only Shekhar and I had done the trip on a motorbike, we would have spent more time exploring  places we liked. But we wouldn't have had nearly so much fun on the route. Perhaps I should be more open to travelling with others in such spontaneously formed groups when I travel solo. Another thing that went well for us was our co-passengers. They put up with all our antics and didn't force us to cut our trip short or skip points. This was apparently very common. A few people from the hostel, who went with another group, had to deal with such people and were very upset. Even the elderly couple with us looked after themselves. They stayed inside when the conditions outside were risky for them to get out. Even though the schedule was hectic and we were crammed inside a car for three days, those things felt like minor inconveniences.
