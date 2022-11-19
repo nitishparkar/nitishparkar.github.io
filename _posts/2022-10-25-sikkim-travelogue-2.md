@@ -6,7 +6,7 @@ title: "Sikkim Travelogue - 2"
 
 The next day was tough. It was cloudy, and it rained almost throughout the day. Shekhar was going to work throughout the week and we were planning a bike trip to North Sikkim that weekend. But it seemed like our plans would go for a toss. I even checked if we could leave Sikkim and go to Himachal/Uttarakhand. To make things worse, we had booked the dorms till that night only, and the hostel was fully booked the next day. I started looking at other hostels in Gangtok, but all the good ones were booked. Eventually, Shekhar went down and sorted it out. They agreed to add extra mattresses in the common space for the two of us for a night, then we would spend the next night in a private room, and the following two nights in another dorm. Thus we would end up staying all over the hostel that week. That became the theme of our stay (and of all the people who stayed in that hostel for long).
 
-<iframe width="100%" height="315" src="//www.youtube.com/embed/ECtRF6a7SPQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="//www.youtube.com/embed/ECtRF6a7SPQ" frameborder="0" allowfullscreen></iframe>
 
 ## Gangtok solo sightseeing
 
@@ -34,6 +34,6 @@ The shared cab driver dropped me near Ranka village and directed me towards a sh
 
 When I reached there, it was prayer time. There were a bunch of tourists, though we were not allowed to go inside the prayer hall. We stood outside and watched. Most tourists couldn’t just stand quietly and observe in peace. I waited till all of them went back. Luckily, no tourists came for the next 20-30 minutes. Those few minutes were serene. There is something in the instruments they play at monasteries during the prayers. Brings goosebumps to me.
 
-<iframe width="100%" height="315" src="//www.youtube.com/embed/v_JHWMfTDXQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="//www.youtube.com/embed/v_JHWMfTDXQ" frameborder="0" allowfullscreen></iframe>
 
 The weather had cleared by the time the prayers finished. I had lunch at a restaurant on the monastery campus and walked back to the point from where I could get a shared cab. I flagged down a passing car which agreed to drop me at Gangtok on a shared cab fare. The return ride was also scenic, with glimpses of Gangtok city from the opposite mountains.

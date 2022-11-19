@@ -24,7 +24,7 @@ We went to Kala Patthar first. As we were climbing Chopta valley, we witnessed m
 
 ![Chopta Valley](/assets/images/posts/sikkim-travelogue/chopta-valley.jpg)
 
-<iframe width="100%" height="315" src="//www.youtube.com/embed/q_EK4Lq4glQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="//www.youtube.com/embed/q_EK4Lq4glQ" frameborder="0" allowfullscreen></iframe>
 
 ![Kala Patthar](/assets/images/posts/sikkim-travelogue/kala-patthar.jpg)
 
@@ -32,7 +32,7 @@ After spending a good amount of time at Kala Patthar, we returned to the cab and
 
 ![Barren landscapes of North Sikkim](/assets/images/posts/sikkim-travelogue/barren-north-sikkim.jpg)
 
-<iframe width="100%" height="315" src="//www.youtube.com/embed/Kp4fx9Cs_5U" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="//www.youtube.com/embed/Kp4fx9Cs_5U" frameborder="0" allowfullscreen></iframe>
 
 On the way back, we admired the arid snowy landscapes one more time. Once we had passed those, the ride back to Lachen was pretty uneventful. It had started drizzling outside, and fatigue was setting in. Most of us caught up on sleep on the ride way back. We freshened up, had late lunch in Lachen, and moved to Lachung. We reached Lachung when the daylight was fading out. Lachung was much bigger than Lachen. The guest house we checked into was not as good as the Lachen one, and the food wasn't good either. (Almost) all of us took showers. Anshika had to take a cold one as the hot water stopped in the middle. Sourabh had a temporary fever. We had dinner there and got jackets and boots for the next day.
 

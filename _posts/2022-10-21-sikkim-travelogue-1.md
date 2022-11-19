@@ -20,7 +20,7 @@ The ride to Gangtok was uneventful. We chatted with our co-passengers a little a
 
 Next morning we were greeted with amazing views from the hostel. When we checked in the previous night, we could sense a valley-like open space and big mountains on one side of the hostel. We didn't imagine it to be this beautiful. 
 
-<iframe width="100%" height="315" src="//www.youtube.com/embed/IBlJcHj0o0g" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="//www.youtube.com/embed/IBlJcHj0o0g" frameborder="0" allowfullscreen></iframe>
 
 
 After soaking in the views and breakfast, we decided to rent a bike and explore Gangtok. We took a shared cab and reached MG road. From there we found a nearby rental shop through Google maps. They had run out of bikes and directed us to a [RideOn](https://rideonrentals.in/) shop nearby. They also didn't have any bikes, but we got the last scooter they had, a TVS Ntorq 125. Just a few seconds late, and that would have gone too. 
