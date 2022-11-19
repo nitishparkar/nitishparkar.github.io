@@ -2,6 +2,8 @@
 title: "Sikkim Travelogue - 3"
 ---
 
+## North Sikkim
+
 Initially, Shekhar and I had planned a 4-day North Sikkim trip on a motorbike. We had even paid a deposit and reserved a bike. But a few people from our hostel were planning to go on a 3D/2N North Sikkim tour the same weekend, so we decided to join them and do East Sikkim on motorbikes next weekend. In hindsight, that was one of the best decision we took on this trip. Since we both aren't hardcore bikers, the trip would have been ardous and boring. And we would have missed all the fun we had as a group.
 
 On Saturday morning, six of us from the hostel reached Vajra stand and met four of our co-passengers for the trip - an elderly couple and a father-son duo. The first day's itinerary was relatively easy -  reach Lachen. We stopped at a couple of waterfalls for sightseeing. The first one was rather unremarkable. At the second one, Naga falls, we took our own sweet time. We clicked loads of pictures and even got down into the water. If this was not enough, Shekhar and Sourabh decided to go further up the waterfall and click pictures there. Our driver was angry, and the other passengers were annoyed. We had taken a lot more time than he had expected and were behind time. This was a preview of what was to come the next two days. Everywhere we went, someone or the other from our group always took more time than what was allotted. It wasn't entirely our fault either. The packaged tour was designed such that there was little room for exploring the places we visited. It wasn't gonna work with a bunch of youngsters not accustomed to packaged tours. 
