@@ -1,0 +1,24 @@
+---
+layout: default
+title: Nitish Parkar
+---
+
+<div id="home">
+  <ul class="posts">
+    {% for post in site.posts %}
+    <li>
+      <span>{{ post.date | date_to_string }}</span>
+      {% if post.external_url %}
+      <a href="{{post.external_url}}" onclick="_gaq.push(['_trackpageview', '{{ post.url }}']);">{{ post.title }}<i
+          class="external-icon"></i></a>
+      {% else %}
+      {% if post.category == 'book_reviews' %}
+      <a href="{{ post.url }}">{{ post.title }} - {{ post.authors | join: ", " }}: Review</a>
+      {% else %}
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {% endif %}
+      {% endif %}
+    </li>
+    {% endfor %}
+</ul>
+</div>

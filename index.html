@@ -1,23 +1,17 @@
 ---
-layout: default
+layout: new
 title: Nitish Parkar
 ---
 
-<div id="home">
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li>
-        <span>{{ post.date | date_to_string }}</span>
-        {% if post.external_url %}
-          <a href="{{post.external_url}}" onclick="_gaq.push(['_trackpageview', '{{ post.url }}']);">{{ post.title }}<i class="external-icon"></i></a>
-        {% else %}
-          {% if post.category == 'book_reviews' %}
-            <a href="{{ post.url }}">{{ post.title }} - {{ post.authors | join: ", " }}: Review</a>
-          {% else %}
-            <a href="{{ post.url }}">{{ post.title }}</a>
-          {% endif %}
-        {% endif %}
-      </li>
-    {% endfor %}
-  </ul>
+<div class="row justify-content-center mt-5 pt-5">
+  <div class="md-col-8 col-10">
+    <p class="fs-1">I am <strong>Nitish Parkar</strong>.</p>
+    <br><br>
+    <p class="fs-3 fw-light">I am a Software Engineer.</p>
+    <br><br>
+    <p class="fs-3 fw-light">I can help you <b class="fw-semibold">build</b> your Tech from 0 to 1.</p>
+    <p class="fs-3 fw-light">I can help you <b class="fw-semibold">scale</b> your Tech from 1 to 100.</p>
+    <br><br><br>
+    <p class="fs-4 fw-light">Let's connect through <a href="https://www.linkedin.com/in/nitishparkar/">LinkedIn</a>.</p>
+  </div>
 </div>
