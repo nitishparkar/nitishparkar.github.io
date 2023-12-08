@@ -10,16 +10,15 @@ The first step of investing is knowing what you are investing for - the goal. Ho
 
 ## Asset allocation
 
-Once you have determined your goals, the next step is deciding what asset classes you want to invest in and what percentage for each class. [This 2-part article from](https://www.capitalmind.in/2020/06/how-to-think-about-asset-allocation-in-india-part-1/) Capitalmind does an excellent job of explaining it in detail. If you would rather not go into the details right now, here is a simpler version: There are two main asset classes - Equity and Debt. Equity is more volatile than Debt and you would typically use a mix of both in your portfolio. 
+Once you have determined your goals, the next step is to decide what asset classes you want to invest in and what percentage for each class. [This two-part article from](https://www.capitalmind.in/2020/06/how-to-think-about-asset-allocation-in-india-part-1/) Capitalmind does an excellent job of explaining it in detail. If you would rather not go into the details right now, here is a simpler version: There are two main asset classes - Equity and Debt. Equity provides capital growth but is risky, Debt offers capital preservation and is more stable than Equity. You would typically use a mix of both in your portfolio. 
 
-To get started, you can subtract your age from 100 and the resulting number becomes your Equity percentage. So if you are 30 years old, you can put (100 - 30 =)70% of your investment amount into Equity and the rest in Debt.
-For Example, if you were to invest 10000 per month, you would put 7000 in Equity and 3000 in Debt.
+The easiest way to determine your asset allocation ratio is to subtract your age from 100; the resulting number becomes your Equity percentage. So, if you are 30 years old, you can allocate 70% (100 - 30 = 70) of your investment amount to Equity and the rest to Debt. For example, if you plan to invest ₹10,000 per month, you would put ₹7,000 in Equity and ₹3,000 in Debt.
 
 ## Rebalancing
 
 Since different instruments grow at a different rate, sooner or later your asset allocation will diverge from the desired. So you will have to take some money out from one asset class that has grown faster and put it into the other one that has grown slower. This is called rebalancing. This will prevent your money from getting concentrated into riskier assets.
 
-Typically, you would rebalance once a year (rebalance frequency). So if at the end of the first year, you had 1.4L in Equity and 40k in Debt, you would have 1.8L total. As per 70:30 Equity:Debt split it should have been 1.26L:54k. So take out 14k from equity and invest it into Debt.
+Typically, you would rebalance once a year, this is called rebalance frequency. Let's assume an asset allocation of 70:30 between Equity and Debt. If, at the end of the first year, you had ₹1.4L in Equity and ₹40K in Debt, you would have ₹1.8L total. According to your asset allocation, it should have been ₹1.26L in Equity and ₹54K in Debt. Therefore, you would need to transfer ₹14K from Equity to Debt.
 
 ## Mutual funds
 
@@ -27,7 +26,7 @@ The simplest way to get started with both Equity and Debt investments is through
 
 How to select these? Go to [https://freefincal.com/](https://freefincal.com/), search for 'plumbline', and open the latest 'Handpicked List of Mutual Funds'. For Equity, pick an index fund from 'Index funds (large cap)' and for Debt pick a constant maturity fund from 'Ten-year Gilt'. Personally, I am using 'UTI Nifty Index Fund - Direct' and 'ICICI Prudential Constant Maturity Gilt Fund - Direct'.
 
-For equity index funds, it is very important that the tracking error is low. So don't just look at the expense ratio while selecting funds. Also, when you are investing yourself, always invest in **Direct** mutual funds. 'Regular' versions of mutual funds have higher expense ratios to pay the middlemen, and in turn, give lesser returns than Direct. How much lesser returns? For a SIP of 5000 each month over 20 years, you may get 5L less in regular funds [^3].   
+For equity index funds, it is very important that the tracking error is low. So don't just look at the expense ratio while selecting funds. Also, when you are investing yourself, always invest in **Direct** mutual funds. 'Regular' versions of mutual funds have higher expense ratios to pay the middlemen, and in turn, give lesser returns than Direct. How much lesser returns? For a SIP of ₹5000 each month over 20 years, you may get ₹5L less in regular funds [^3].   
 
 [This article](https://primeinvestor.in/direct-vs-regular-plans-in-mutual-funds-how-should-you-decide/) compares both options in detail if you are interested in reading more. For a comparison of direct vs regular fund expense ratios and what goes into expense ratios, see [this](https://primeinvestor.in/mutual-fund-expense-ratios-direct-vs-regular/). 
 
@@ -79,7 +78,7 @@ In addition to these, I would recommend reading [The Psychology of Money](https:
 
 ## Parting thoughts
 
-There are many complexities in the world of personal finance. You don't need most of the fluff. Keep it simple and manageable. At a young age, you are better off paying attention to your career than your investments. Earning and investing more will take you to your goals faster than optimizing your investments[^5]. If find yourself spending more time with your investments than with your friends, perhaps this gem from Tim O'Reilly will put things in perspective - "Money is like gasoline during a road trip. You don't want to run out of gas on your trip, but you're not doing a tour of gas stations."
+The world of personal finance is filled with complexities, but you don’t need most of the fluff. Keep it simple and manageable. At a young age, you are better off paying attention to your career than your investments. Earning and investing more will take you to your goals faster than optimizing your investments[^5]. If you find yourself spending more time with your investments than with your friends, perhaps this gem from Tim O'Reilly will put things in perspective - *"Money is like gasoline during a road trip. You don't want to run out of gas on your trip, but you're not doing a tour of gas stations."*
 
 
 <br/><br/>
