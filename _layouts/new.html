@@ -29,26 +29,59 @@
 
     ga('create', 'UA-54024303-1', 'auto');
     ga('send', 'pageview');
-
   </script>
 </head>
 
 <body>
-  <div class="container">
-    <header class="d-flex flex-wrap justify-content-end py-3 mb-4">
-      <ul class="nav nav-pills">
-        <li class="nav-item"><a href="/"
-            class="nav-link {% if page.url == '/' %} text-secondary {% endif %}">Home</a></li>
-        <li class="nav-item"><a href="/blog"
-            class="nav-link {% if page.url == '/blog' %} text-secondary {% endif %}">Blog</a></li>
-        <li class="nav-item"><a href="/about"
-            class="nav-link {% if page.url == '/about' %} text-secondary {% endif %}">About</a>
-        </li>
-      </ul>
-    </header>
+  <!-- Header with constrained width -->
+  <header class="container py-3" style="max-width: 1100px;">
+    <div class="d-flex flex-wrap align-items-center justify-content-between">
+      <!-- Name/Logo on left -->
+      <div>
+        <a href="/" class="text-decoration-none text-dark fw-bold fs-4">Nitish Parkar</a>
+      </div>
 
+      <!-- Navigation in center -->
+      <div>
+        <ul class="nav nav-pills">
+          <li class="nav-item">
+            <a href="/blog" class="nav-link {% if page.url == '/blog' %} text-secondary {% endif %}">Blog</a>
+          </li>
+        </ul>
+      </div>
+
+      <!-- Social icons on right -->
+      <div>
+        <a href="https://www.linkedin.com/in/nitishparkar/" class="text-decoration-none text-muted me-2">
+          <img src="/assets/images/linkedin.svg" alt="LinkedIn" width="16" height="16">
+        </a>
+        <a href="https://github.com/nitishparkar" class="text-decoration-none text-muted me-2">
+          <img src="/assets/images/github.svg" alt="GitHub" width="16" height="16">
+        </a>
+
+        <a href="https://www.twitter.com/ParkarNitish" class="text-decoration-none text-muted me-2">
+          <img src="/assets/images/twitter.svg" alt="Twitter" width="16" height="16">
+        </a>
+
+        <a href="https://stackoverflow.com/users/923080/nitish" class="text-decoration-none me-2">
+          <img src="/assets/images/stack-overflow.svg" alt="Stack Overflow" width="16" height="16">
+        </a>
+
+        <a href="https://www.goodreads.com/nitishparkar" class="text-decoration-none">
+          <img src="/assets/images/book.svg" alt="Goodreads" width="16" height="16">
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Full width border line -->
+  <div class="border-bottom mb-4"></div>
+
+  <!-- Main content with narrower width than header -->
+  <main class="container" style="max-width: 900px;">
     {{ content }}
-  </div>
+  </main>
+
 </body>
 
 </html>
